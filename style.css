@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(51, 58, 70);
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.item {
+    background: white;
+}
+
+.pixel-1 {
+    width: 31.25px;
+    height: 31.25px;
+}
+
+.pixel-2 {
+    width: 15.625px;
+    height: 15.625px;
+}
+
+.pixel-3 {
+    width: 10.416px;
+    height: 10.416px;
+}
+
+.pixel-4 {
+    width: 7.8125px;
+    height: 7.8125px;
+}
+
+.mr-3 {
+    margin-right: 1.5rem;
+}
+
+.mt-5 {
+    margin-top: 1.3rem;
+}
